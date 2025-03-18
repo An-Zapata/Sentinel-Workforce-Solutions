@@ -22,11 +22,13 @@ This dataset was inspired by Public Health EHS and workplace incident datasets o
 - **2023:** The year saw an **unexpected spike in February, with 715 incidents**, well above the 398-incident annual average. Q4 **continued** to reflect **seasonal volatility**, though with slightly lower peaks compared to 2022.
 - **2024:** The year began with relatively stable incident rates, with monthly incidents remaining below the 432-incident average through June. However, Q4 again followed historical trends, with October experiencing a spike and December peaking at 828 incidents, reinforcing the recurring end-of-year risk period.
 
-
+**Incidents by Other Dimensions**
+- **Industry:** Incident distribution across corporate offices, factories, retail stores, and warehouses suggests a consistent level of injury risk across all workplace environments. The range of total incidents across industries follows an expected distribution, where retail stores (2,268 injuries) and corporate offices (2,993 injuries) are lower, and warehouses (4,494 injuries) and factories (5,210 injuries) are on the higher end of the range.
+- **Severity:** Despite the expected **higher incident counts in factories and warehouses**, the severity distribution remains proportionally similar across industries, suggesting that all workplace environments—regardless of industry—pose comparable injury risks.
 
 
 **Risk Analysis**
-- **Rising Incident Averages:** The **yearly average number of incidents has increased**, with 2024 recording the **highest annual average** over the three-year period. This indicates a **potential upward trend in workplace incidents**, warranting further investigation into operational and compliance factors.
+- **Rising Incident Averages:** The **yearly average number of incidents has increased**, with 2024 recording the **highest annual average** over the three-year period. This indicates a **potential upward trend in workplace incidents**.
 - **April as a Unique Risk Period:** While **April consistently records the low incident prevalence** (well **below the three-year average** of 1,248 incidents, with a mean of **615 incidents**), it exhibits a **disproportionately high number of lost workdays per incident**. This suggests that while **fewer incidents** occur in April, they tend to be **more severe**.
 
 
