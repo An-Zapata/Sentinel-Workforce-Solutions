@@ -12,6 +12,8 @@ This dataset represents workplace incident reports from Sentinel Workplace Solut
 
 This dataset was inspired by Public Health EHS and workplace incident datasets on [Kaggle](https://kaggle.com/datasets), but is ultimately an AI-generated dataset to create a focused analysis for this project.
 
+![Image](https://github.com/user-attachments/assets/88824d8b-71e3-4e09-ac11-a29edff4ce67)
+
 ## Sentinel Workplace Solutions: Workplace Incident Analysis & Recommendations
 
 ### Executive Summary
@@ -41,6 +43,8 @@ This analysis uncovers key patterns in Sentinel Workplace Solutions workplace in
 - **April as a Unique Risk Period:** While **April consistently records the low incident prevalence** (well **below the three-year average** of 1,248 incidents, with a mean of **615 incidents**), it exhibits a **disproportionately high number of lost workdays per incident**. This suggests that while **fewer incidents** occur in April, they tend to be **more severe**.
 - **Near-Miss Underreporting:** Incidents that lacked a **near-miss flag were more frequent**, suggesting that **proactive risk identification** is **not consistently practiced** and needs to be effectively implemented in order to prvent future incidents.
 - **High-Risk Cities:** **San Jose** has the **highest average days lost** per incident and **Dallas** has the **highest total incidents**, which may indicate **more severe injuries, slower return-to-work processes, or operational risks** that require further investigation.
+
+- ![Image](https://github.com/user-attachments/assets/3ad419a4-23a9-4900-9ecf-1558ebc0ca66)
 
 ## Recommendations
 
