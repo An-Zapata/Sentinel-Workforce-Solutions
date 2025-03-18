@@ -44,7 +44,9 @@ This analysis uncovers key patterns in Sentinel Workplace Solutions workplace in
 - **Near-Miss Underreporting:** Incidents that lacked a **near-miss flag were more frequent**, suggesting that **proactive risk identification** is **not consistently practiced** and needs to be effectively implemented in order to prvent future incidents.
 - **High-Risk Cities:** **San Jose** has the **highest average days lost** per incident and **Dallas** has the **highest total incidents**, which may indicate **more severe injuries, slower return-to-work processes, or operational risks** that require further investigation.
 
-- ![Image](https://github.com/user-attachments/assets/3ad419a4-23a9-4900-9ecf-1558ebc0ca66)
+![Image](https://github.com/user-attachments/assets/3ad419a4-23a9-4900-9ecf-1558ebc0ca66)
+
+[Access Full Interactive Dashboard Here](https://public.tableau.com/views/SentinelWorkplaceSolutionsIncidentDashboard/MainDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Recommendations
 
